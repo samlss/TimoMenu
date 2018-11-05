@@ -35,7 +35,7 @@
 ### Dependency
 
 #### Gradle
-Add it in your app build.gradle at the end of repositories:
+Add it in your module build.gradle at the end of repositories:
   ```java
   dependencies {
       implementation 'me.samlss:timomenu:1.0.0'
