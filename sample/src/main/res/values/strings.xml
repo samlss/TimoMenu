@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TimoMenu</string>
+
+    <string name="face_book">Facebook</string>
+    <string name="alipay">Alipay</string>
+    <string name="ding_ding">Ding</string>
+    <string name="moments">Moments</string>
+    <string name="we_chat">We chat</string>
+    <string name="qq">QQ</string>
+
+    <string name="collect">Collect</string>
+    <string name="night">Night</string>
+    <string name="font">Font</string>
+    <string name="block">Block</string>
+    <string name="report">Report</string>
+
+    <string name="options">Options</string>
+    <string name="cancel">Cancel</string>
+</resources>
+

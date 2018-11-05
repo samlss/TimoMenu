@@ -1,0 +1,28 @@
+apply plugin: 'com.android.library'
+apply plugin: 'com.novoda.bintray-release'
+
+android {
+    compileSdkVersion 28
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 28
+        versionCode 2
+        versionName "1.0.0"
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+}
+
+dependencies {
+}
+
+publish {
+    userOrg = 'samlss'
+    groupId = 'me.samlss'
+    artifactId = 'timomenu'
+    publishVersion = '1.0.0'
+    desc = ' A pop-up menu for android that supports multi-row scrollable submenus.'
+    website = 'https://github.com/samlss/TimoMenu'
+}
