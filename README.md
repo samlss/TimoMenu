@@ -72,7 +72,7 @@ timoMenu.dismiss();
 
 
 
-Please see [wiki](https://github.com/samlss/TimoMenu/wiki) for more samples.
+Please see [wiki](https://github.com/samlss/TimoMenu/wiki) for more descriptions.
 
 ### License
 
