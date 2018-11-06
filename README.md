@@ -30,7 +30,7 @@
 
 <br>
 
-#### Support 10 kinds of opening animations
+#### Support 8 kinds of opening animations
 ![Lighter](https://github.com/samlss/TimoMenu/blob/master/screenshots/screenshot4.gif)
 
 ------
