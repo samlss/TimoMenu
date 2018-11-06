@@ -13,17 +13,17 @@
 
 ### Screenshots
 
-#### From bottom
+#### Bottom
 ![Lighter](https://github.com/samlss/TimoMenu/blob/master/screenshots/screenshot1.gif)
 
 <br>
 
-#### From center
+#### Center
 ![Lighter](https://github.com/samlss/TimoMenu/blob/master/screenshots/screenshot2.gif)
 
 <br>
 
-#### From Top
+#### Top
 ![Lighter](https://github.com/samlss/TimoMenu/blob/master/screenshots/screenshot3.gif)
 
 <br>
