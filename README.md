@@ -1,6 +1,6 @@
 ![TimoMenu](https://github.com/samlss/TimoMenu/blob/master/screenshots/menu.png)
 
- [![Download](https://api.bintray.com/packages/samlss/maven/timomenu/images/download.svg)](https://bintray.com/samlss/maven/timomenu/_latestVersion)   [![Api reqeust](https://img.shields.io/badge/API-14+-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=14#l14)    [![Apache License 2.0](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/samlss/TimoMenu/blob/master/LICENSE)  [![Apache License 2.0](https://img.shields.io/badge/apk-download-orange.svg)](https://github.com/samlss/TimoMenu/blob/master/apks/TimoMenu-V1.0.0.apk)  
+ [![Download](https://api.bintray.com/packages/samlss/maven/timomenu/images/download.svg)](https://bintray.com/samlss/maven/timomenu/_latestVersion)   [![Api reqeust](https://img.shields.io/badge/API-14+-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=14#l14)    [![Apache License 2.0](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/samlss/TimoMenu/blob/master/LICENSE)  [![Apache License 2.0](https://img.shields.io/badge/apk-download-orange.svg)](https://github.com/samlss/TimoMenu/blob/master/apks/TimoMenu-V1.0.0.apk?raw=true)  
 
 
 [中文](https://github.com/samlss/TimoMenu/wiki/%E4%B8%BB%E9%A1%B5)
