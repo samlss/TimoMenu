@@ -62,7 +62,8 @@ TimoMenu timoMenu = new TimoMenu.Builder(this)
                 .setGravity(Gravity.BOTTOM)
                 .setMenuMargin(new Rect(20, 20, 20, 20))
                 .setMenuPadding(new Rect(0, 10, 0, 10))
-                .addRow('ItemAnimation', ' List<TimoItemViewParameter>');
+                .addRow('ItemAnimation', ' List<TimoItemViewParameter>')
+                .build();
 
 //Show menu
 timoMenu.show(); 
