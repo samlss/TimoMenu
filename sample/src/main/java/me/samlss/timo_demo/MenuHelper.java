@@ -41,7 +41,7 @@ public class MenuHelper {
 
     public static int ROW_TEXT[][] = {
         {R.string.face_book, R.string.alipay, R.string.ding_ding, R.string.moments, R.string.we_chat, R.string.qq},
-        {R.string.collect, R.string.night, R.string.face_book, R.string.block, R.string.report, 0},
+        {R.string.collect, R.string.night, R.string.font, R.string.block, R.string.report, 0},
     };
 
     public static List<TimoItemViewParameter> getTopList(int itemWidth){
