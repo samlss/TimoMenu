@@ -33,6 +33,8 @@
 #### Header & Footer
 ![Lighter](https://github.com/samlss/TimoMenu/blob/master/screenshots/screenshot5.gif)
 
+<br>
+
 #### Support 8 kinds of opening animations
 ![Lighter](https://github.com/samlss/TimoMenu/blob/master/screenshots/screenshot4.gif)
 
